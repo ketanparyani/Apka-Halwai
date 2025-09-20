@@ -60,13 +60,13 @@ npm install
 5. **Configure environment variables:**
    - Backend `.env` file:
       
-DATABASE_URL=postgresql://postgres:Ketan@1012@localhost:5432/sweet_shop
+     DATABASE_URL=postgresql://postgres:Ketan@1012@localhost:5432/sweet_shop
 
-JWT_SECRET=B6373B2982DF80CEE70025459F9D598CAD7CDDD01525F1626E52C5377D0C4D51 
+     JWT_SECRET=B6373B2982DF80CEE70025459F9D598CAD7CDDD01525F1626E52C5377D0C4D51 
 
-PORT=5000
+     PORT=5000
 
-NODE_ENV=development
+     NODE_ENV=development
  
 
 6. **Run the application:**
@@ -123,13 +123,7 @@ npm start
 5. **Documentation:** Helped create comprehensive README and code comments
 
 
-## 🤝 Contributing
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 

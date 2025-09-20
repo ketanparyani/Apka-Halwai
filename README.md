@@ -79,7 +79,7 @@ npm start
 
 ## 🚀 API Endpoints
 
-###**Health Check**
+**Health Check**
   - `GET /api/health` - Check if API is running (returns {"message":"Sweet Shop API is running!"})
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -138,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - PostgreSQL for reliable database management
 - JWT for secure authentication
 
-##👨‍💻 Author
+**👨‍💻 Author**
 Built by Ketan Paryani as part of Incubyte coding assesment challenge.
 
 ---
